@@ -1,4 +1,4 @@
-# Kaggle-101: Titanic Survival Prediction
+# Titanic Survival Prediction
 
 *finished on 20th, May 2015*
 
